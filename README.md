@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Martin (ZenMaster77)
 
-<!--
-**ZenMaster77/ZenMaster77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇦🇷🇮🇹 IT Infrastructure Specialist con 18+ años de experiencia.  
+📍 Patagonia, Argentina → 🎯 Próxima parada: Barcelona (Ene 2027)
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
+- **Sistemas:** Linux/Unix, Windows Server
+- **Virtualización:** Nutanix, VMware vSphere, XenServer
+- **Redes:** CCNA (Routing/Switching), DNS, DHCP, Active Directory
+- **Backup & Monitoreo:** Netbackup, Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 En este espacio iré subiendo...
+Pequeños scripts de automatización, configuraciones de redes en laboratorio, y apuntes técnicos de mi aprendizaje continuo.
+
+## 📫 ¿Cómo contactarme?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Costa-blue)](https://www.linkedin.com/in/martin-rodrigo-costa-57642714/)
